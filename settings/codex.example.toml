@@ -1,0 +1,4 @@
+# 2026-10-12 本机配置中选取的非敏感设置；不是完整 config.toml。
+# 模型是否可用取决于恢复机器的账号与 provider，仅按需合并这两项。
+model = "gpt-6-astra"
+model_reasoning_effort = "high"
